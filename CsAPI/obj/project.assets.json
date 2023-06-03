@@ -1813,11 +1813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IT-Programming\\kursova\\CsAPI\\CsAPI\\CsAPI.csproj",
+      "projectUniqueName": "C:\\IT-Programming\\kursova\\CsAPI\\api-csgo-serv\\CsAPI\\CsAPI.csproj",
       "projectName": "CsAPI",
-      "projectPath": "C:\\IT-Programming\\kursova\\CsAPI\\CsAPI\\CsAPI.csproj",
+      "projectPath": "C:\\IT-Programming\\kursova\\CsAPI\\api-csgo-serv\\CsAPI\\CsAPI.csproj",
       "packagesPath": "C:\\Users\\Ostap\\.nuget\\packages\\",
-      "outputPath": "C:\\IT-Programming\\kursova\\CsAPI\\CsAPI\\obj\\",
+      "outputPath": "C:\\IT-Programming\\kursova\\CsAPI\\api-csgo-serv\\CsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ostap\\AppData\\Roaming\\NuGet\\NuGet.Config",

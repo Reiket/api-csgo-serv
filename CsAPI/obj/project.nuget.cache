@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iQ9Irxz5B7Sr4v1K1Y8oGiFVBRqReJfuGuNYoUj4CmA2Qh/as07jqy1nGdXOeaak+Aa3wKFaZwZy09Q+XQkF9Q==",
+  "dgSpecHash": "tMJjK+LbTQnW+iJrTtqqejQZTRuKJdJWBV2GW5u3NDxK1At+dkiF0lF2RliGvg88H4m+/EFyRXMHfaiq38SEDQ==",
   "success": true,
-  "projectFilePath": "C:\\IT-Programming\\kursova\\CsAPI\\CsAPI\\CsAPI.csproj",
+  "projectFilePath": "C:\\IT-Programming\\kursova\\CsAPI\\api-csgo-serv\\CsAPI\\CsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ostap\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Ostap\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
