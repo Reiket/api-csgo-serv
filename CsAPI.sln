@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsAPI", "CsAPI\CsAPI.csproj", "{60AA7DD1-557B-45CB-86D9-B9E9F50139E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60AA7DD1-557B-45CB-86D9-B9E9F50139E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AA7DD1-557B-45CB-86D9-B9E9F50139E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AA7DD1-557B-45CB-86D9-B9E9F50139E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AA7DD1-557B-45CB-86D9-B9E9F50139E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A332373-4F0B-4873-9CAC-D48FB68F8110}
+	EndGlobalSection
+EndGlobal
